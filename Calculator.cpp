@@ -4,12 +4,12 @@
 
 using namespace std;
 
-const char *Operators = @"+-*/";
-const char *Equals    = @"=";
-const char *Digits    = @"0123456789.";
-const char *Period    = @".";
-const char *Delete    = @"D";
-const char *Clear     = @"C";
+const char *Operators = "+-*/";
+const char *Equals    = "=";
+const char *Digits    = "0123456789.";
+const char *Period    = ".";
+const char *Delete    = "D";
+const char *Clear     = "C";
 
 Calculator::Calculator()
 {
